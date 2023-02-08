@@ -21,4 +21,12 @@ public class AircraftBuilder : IAircraftBuilder
 
         return this;
     }
+
+    public IAircraft Build()
+    {
+        return new Aircraft()
+        {
+            Engines = _aircraftEngines
+        };
+    }
 }

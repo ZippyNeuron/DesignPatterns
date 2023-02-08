@@ -3,4 +3,5 @@
 public interface IAircraftBuilder
 {
     public IAircraftBuilder AddEngines(EnginePosition enginePosition, int count);
+    public IAircraft Build();
 }

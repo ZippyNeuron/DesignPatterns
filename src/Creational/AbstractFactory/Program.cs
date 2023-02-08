@@ -2,6 +2,7 @@
 
 IAircraftBuilder aircraftBuilder = new AircraftBuilder(new JetAircraftFactory());
 
-aircraftBuilder
+IAircraft aircraft = aircraftBuilder
     .AddEngines(EnginePosition.LeftWing, 1)
-    .AddEngines(EnginePosition.RightWing, 1);
+    .AddEngines(EnginePosition.RightWing, 1)
+    .Build();
