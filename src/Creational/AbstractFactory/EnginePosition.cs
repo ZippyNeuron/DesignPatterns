@@ -7,5 +7,6 @@ public enum EnginePosition
     TailLeft,
     TailRight,
     TailCentre,
-    Nose
+    Nose,
+    Rear
 }
