@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using DesignPatterns.Visitor;
 
-Console.WriteLine("Hello, world!");
+var memberProcessor = new MemberProcessor();
+
+var members = new List<Member>()
+{
+    new MemberStandard("Mark Twain", memberProcessor),
+    new MemberSenior("Jane Twain", memberProcessor),
+};
