@@ -1,6 +1,5 @@
 # Design Patterns
 ### *This repository contains sample projects that explore the use and implementation of design patterns.*
-<br/>
 
 ## Creational Patterns
 
@@ -9,7 +8,6 @@
 ### [Factory Method](https://en.wikipedia.org/wiki/Factory_method_pattern)
 ### [Prototype](https://en.wikipedia.org/wiki/Prototype_pattern)
 ### [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)
-<br/>
 
 ## Structural Patterns
 
@@ -20,7 +18,6 @@
 ### [Facade](https://en.wikipedia.org/wiki/Facade_pattern)
 ### [Flyweight](https://en.wikipedia.org/wiki/Flyweight_pattern)
 ### [Proxy](https://en.wikipedia.org/wiki/Proxy_pattern)
-<br/>
 
 ## Behavioural Patterns
 
