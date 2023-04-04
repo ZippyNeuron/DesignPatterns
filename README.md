@@ -1,6 +1,5 @@
 # Design Patterns
 ### *This repository contains sample projects that explore the use and implementation of design patterns.*
-<br />
 
 ### Creational Patterns
 
