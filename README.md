@@ -3,8 +3,8 @@
 
 ### Creational Patterns
 
-- <a href="https://en.wikipedia.org/wiki/Abstract_factory_pattern">Abstract Factory</a>
-- <a href="https://en.wikipedia.org/wiki/Builder_pattern">Builder</a>
+ - <a href="https://en.wikipedia.org/wiki/Abstract_factory_pattern">Abstract Factory</a>
+ - <a href="https://en.wikipedia.org/wiki/Builder_pattern">Builder</a>
 
 #### [Factory Method](https://en.wikipedia.org/wiki/Factory_method_pattern)
 #### [Prototype](https://en.wikipedia.org/wiki/Prototype_pattern)
