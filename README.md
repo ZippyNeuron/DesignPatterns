@@ -3,11 +3,7 @@
 
 ### Creational Patterns
 
-#### [Abstract Factory](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-#### [Builder](https://en.wikipedia.org/wiki/Builder_pattern)
-#### [Factory Method](https://en.wikipedia.org/wiki/Factory_method_pattern)
-#### [Prototype](https://en.wikipedia.org/wiki/Prototype_pattern)
-#### [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)
+[Abstract Factory](https://en.wikipedia.org/wiki/Abstract_factory_pattern), [Builder](https://en.wikipedia.org/wiki/Builder_pattern), [Factory Method](https://en.wikipedia.org/wiki/Factory_method_pattern), [Prototype](https://en.wikipedia.org/wiki/Prototype_pattern), [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)
 
 ### Structural Patterns
 
